@@ -1,0 +1,2 @@
+/usr/bin/ar cr libpcre2posix.a  CMakeFiles/pcre2posix.dir/src/pcre2posix.c.o
+/usr/bin/ranlib libpcre2posix.a

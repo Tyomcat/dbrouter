@@ -1,0 +1,1 @@
+/usr/bin/cc  -I/root/MaxScale-develop/pcre2/src     CMakeFiles/pcre2grep.dir/src/pcre2grep.c.o  -o pcre2grep -rdynamic libpcre2posix.a -lz -lbz2 libpcre2-8.a 

@@ -1,0 +1,4 @@
+/root/MaxScale-develop/pcre2/CMakeFiles/pcre2-8.dir
+/root/MaxScale-develop/pcre2/CMakeFiles/pcre2grep.dir
+/root/MaxScale-develop/pcre2/CMakeFiles/pcre2posix.dir
+/root/MaxScale-develop/pcre2/CMakeFiles/pcre2test.dir

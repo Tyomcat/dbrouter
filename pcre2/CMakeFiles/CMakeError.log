@@ -1,0 +1,18 @@
+Determining if the include file windows.h exists failed with the following output:
+Change Dir: /root/MaxScale-develop/pcre2/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2845810937/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2845810937.dir/build.make CMakeFiles/cmTryCompileExec2845810937.dir/build
+gmake[1]: Entering directory `/root/MaxScale-develop/pcre2/CMakeFiles/CMakeTmp'
+/usr/local/bin/cmake -E cmake_progress_report /root/MaxScale-develop/pcre2/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2845810937.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -I/root/MaxScale-develop/pcre2/src     -o CMakeFiles/cmTryCompileExec2845810937.dir/CheckIncludeFile.c.o   -c /root/MaxScale-develop/pcre2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/MaxScale-develop/pcre2/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:21: fatal error: windows.h: No such file or directory
+ #include <windows.h>
+                     ^
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTryCompileExec2845810937.dir/CheckIncludeFile.c.o] Error 1
+gmake[1]: Leaving directory `/root/MaxScale-develop/pcre2/CMakeFiles/CMakeTmp'
+gmake: *** [cmTryCompileExec2845810937/fast] Error 2
+
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -I/root/MaxScale-develop/pcre2/src     CMakeFiles/pcre2test.dir/src/pcre2test.c.o  -o pcre2test -rdynamic -lreadline libpcre2posix.a libpcre2-8.a 
